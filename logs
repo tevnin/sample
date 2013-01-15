@@ -5,3 +5,6 @@
 127.0.0.1 - - [15/Jan/2013:09:09:04 -0500] "GET / HTTP/1.1" 200 5
 [Tue Jan 15 09:09:04 2013] [error] [client 127.0.0.1] File does not exist: /Applications/XAMPP/htdocs/sample.dev/favicon.ico
 127.0.0.1 - - [15/Jan/2013:09:09:04 -0500] "GET /favicon.ico HTTP/1.1" 404 1089
+127.0.0.1 - - [15/Jan/2013:09:21:58 -0500] "GET / HTTP/1.1" 200 99
+[Tue Jan 15 09:21:58 2013] [error] [client 127.0.0.1] File does not exist: /Applications/XAMPP/htdocs/sample.dev/favicon.ico
+127.0.0.1 - - [15/Jan/2013:09:21:58 -0500] "GET /favicon.ico HTTP/1.1" 404 1089
